@@ -1,0 +1,5 @@
+# Created at 2024-04-24T22:17:18.185
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Java\roka1901_solutions\Project\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
